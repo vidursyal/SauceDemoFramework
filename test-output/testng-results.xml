@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-09T18:27:59 EST" name="Default suite" finished-at="2022-02-09T18:28:03 EST" duration-ms="4407">
+    <groups>
+    </groups>
+    <test started-at="2022-02-09T18:27:59 EST" name="Default test" finished-at="2022-02-09T18:28:03 EST" duration-ms="4407">
+      <class name="TC005_AllyTest">
+        <test-method is-config="true" signature="preTest()[pri:0, instance:TC005_AllyTest@d83da2e]" started-at="2022-02-09T18:27:59 EST" name="preTest" finished-at="2022-02-09T18:28:01 EST" duration-ms="2282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="TC005_AlleyTest()[pri:0, instance:TC005_AllyTest@d83da2e]" started-at="2022-02-09T18:28:01 EST" name="TC005_AlleyTest" finished-at="2022-02-09T18:28:03 EST" duration-ms="1898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005_AlleyTest -->
+        <test-method is-config="true" signature="after_test()[pri:0, instance:TC005_AllyTest@d83da2e]" started-at="2022-02-09T18:28:03 EST" name="after_test" finished-at="2022-02-09T18:28:03 EST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test -->
+      </class> <!-- TC005_AllyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
